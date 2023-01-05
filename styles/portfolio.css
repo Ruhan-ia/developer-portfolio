@@ -6,7 +6,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title{
     font-weight: 800;
@@ -164,7 +164,7 @@ section{
     background: #FFF8F3;
     padding: 130px 200px;
 }
-.contact input[type="text"], input[type="email"], textarea{
+.contact .int textarea{
     margin-bottom: 24px;
     border: 0;
     width: 100%;
