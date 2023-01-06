@@ -175,7 +175,8 @@ textarea{
     width: 461px;
     height: 195px;  
     border: 0;
-    
+    margin-bottom: 24px;
+
 }
 .contact a{
     text-decoration: none;
